@@ -1,0 +1,7 @@
+.amazon_search_results{text-align:center}
+.amazon_search_loading{background-image:url(img/loading.gif);background-repeat:no-repeat;background-position:center;height:20px}
+.amazon_search_success{margin-top:5px;text-align:center}
+.amazon_result{width:175px;z-index:100;position:relative;text-align:center;float:left;margin:3px}
+.amazon_result img{border:0;margin-bottom:3px}
+.amazon_search_title{min-height:30px;display:block}
+.amazon_full_results{font-size:1.1em;font-weight:700;text-align:center;margin:6px}

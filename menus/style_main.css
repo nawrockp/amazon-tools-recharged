@@ -1,0 +1,39 @@
+.field_info{display:none;text-align:left;position:relative;z-index:10;max-width:400px;height:0;left:30px;top:-20px}
+.field_info img{margin-left:20px;border:1px solid #000}
+.field_info_img{cursor:pointer}
+.field_info_td{vertical-align:middle;max-width:400px}
+.cache_sub{display:none}
+.cache_expand{cursor:pointer;width:16px;height:16px;background-image:url(img/expand.gif);background-repeat:no-repeat;background-position:center center}
+.cache_collapse{cursor:pointer;width:16px;height:16px;background-image:url(img/collapse.gif);background-repeat:no-repeat;background-position:center center}
+.cache_section{background-color:#eee}
+.amazon_tab_override textarea{float:left;position:relative;width:80%;height:400px}
+.template_port{float:left;position:relative;width:80%;height:400px;word-wrap:break-word;text-wrap:unrestricted}
+.amazon_tab_override:after{content:"Tab Override enabled";font-style:italic;background-image:url(img/tab_override_sm.png);background-repeat:no-repeat;background-position:left top;float:left;position:relative;left:5px;top:5px;width:12%;height:96px;padding-top:28px}
+.menu_icon{background-image:url(img/icon_med.png);background-repeat:no-repeat;float:left;height:36px;width:36px;}
+.amazon_footer{font-size:small;font-style:italic;text-align:center;margin-top:5px;color:#666;width:450px;padding:3px}
+.preview{min-width:160px;text-align:center}
+.template_sidebar{position:relative;top:5px;float:left;text-align:left;margin-left:10px}
+.template_sidebar ul{list-style-type:none;position:relative}
+.template_sidebar li{text-align:left;height:2em}
+.templates_table *{clear:none}
+.templates_table{clear:none;width:70%;float:left}
+.new_window{width:16px;height:14px;display:inline-block;background-image:url(img/new-window.png);background-repeat:no-repeat;text-decoration:none}
+.post_type_table td{border:0;margin:0;padding:0 3px 0 0}
+.post_type_table tr{border:0;margin:0;padding:0}
+.list{width:360px;float:left;margin-right:15px}
+.list textarea{display:block;width:100%;height:80px;margin:0 0 10px}
+.list input[type=text]{width:180px;font-style:italic;color:#6b6b6b;margin:0;padding:4px}
+.list textarea,.list input{background-color:#fff;border:1px solid #e3e3e3;margin-top:3px}
+.add_asins .button-primary,.add_asins .button-secondary{float:right;border-style:none;margin:0 0 5px;padding:5px}
+.amazon_lists .postbox{margin-top:10px;padding:0}
+.amazon_lists .postbox h3{cursor:auto;margin:0;padding:8px}
+.amazon_lists .postbox .inside{padding:8px}
+.list .widefat{border-style:none}
+.list .widefat td{font-size:1.1em;line-height:22px}
+.add_asins{padding:5px}
+.bad_asin{background-color:red}
+.remove_asin{height:0;line-height:0;text-align:right;margin:0;padding:0}
+.remove_asin input{border-style:none;margin:0 0 1px}
+.delete_list{float:left;font-size:.9em;font-weight:700;cursor:pointer;margin:3px 0 0 5px}
+.wrap h5{font-size:.95em;font-style:italic;margin:5px}
+.wrap pre{display:block;border:1px solid #dfdfdf;margin:3px 0;padding:2px}
